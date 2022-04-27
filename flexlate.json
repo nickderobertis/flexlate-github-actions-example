@@ -4,7 +4,7 @@
       "name": "copier-flexlate-github-actions",
       "path": "../copier-flexlate-github-actions",
       "type": "copier",
-      "version": "da0c2bc110c5b0589da3e5d5705c0d3c",
+      "version": "3952cf05f89aa8f1fc3eaadf7fe40f15",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -17,7 +17,7 @@
       "data": {
         "main_branch_name": "main"
       },
-      "version": "da0c2bc110c5b0589da3e5d5705c0d3c",
+      "version": "3952cf05f89aa8f1fc3eaadf7fe40f15",
       "add_mode": "local",
       "root": "."
     }
