@@ -31,4 +31,4 @@ jobs:
         with:
           branch_name: ${{ inputs.branch }}
           gh_token: ${{ secrets.GH_TOKEN }}
-          main_branch_name: main
+          main_branch: main
