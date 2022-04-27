@@ -11,5 +11,15 @@
       "render_relative_root_in_template": "output"
     }
   ],
-  "applied_templates": []
+  "applied_templates": [
+    {
+      "name": "copier-flexlate-github-actions",
+      "data": {
+        "main_branch_name": "main"
+      },
+      "version": "da0c2bc110c5b0589da3e5d5705c0d3c",
+      "add_mode": "local",
+      "root": "."
+    }
+  ]
 }
