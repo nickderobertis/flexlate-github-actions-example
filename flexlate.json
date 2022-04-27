@@ -2,7 +2,7 @@
   "template_sources": [
     {
       "name": "copier-flexlate-github-actions",
-      "path": "../../home/runner/work/_temp/copier-flexlate-github-actions",
+      "path": "../copier-flexlate-github-actions",
       "type": "copier",
       "version": "da0c2bc110c5b0589da3e5d5705c0d3c",
       "git_url": null,
